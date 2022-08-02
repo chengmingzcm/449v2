@@ -65,3 +65,17 @@ trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@tj-sg02.yiyodns.xyz:443?security=t
 trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s2.hazz.win:12340?security=tls&type=tcp&headerType=none#Relay_%F0%9F%87%B8%F0%9F%87%ACSG-%F0%9F%87%B8%F0%9F%87%ACSG_1618
 trojan://207eed47-ffdd-4bd4-91c1-719ac25c9cee@gy02.20220512.cyou:34567?security=tls&type=tcp&headerType=none#Relay_%F0%9F%87%BA%F0%9F%87%B8US-%F0%9F%87%BA%F0%9F%87%B8US_2566
 trojan://081a4198-d664-4bc5-a7c6-e35982da964b@jgwhdlb4.gaox.ml:443?security=tls&type=tcp&headerType=none#Relay_%F0%9F%87%BA%F0%9F%87%B8US-%F0%9F%87%BA%F0%9F%87%B8US_2584
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw@138.197.166.205:811#CA_134
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@195.154.200.150:2376#FR_245
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw@178.62.16.161:811#GB_304
+trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30003?allowInsecure=1#Relay_%f0%9f%87%a8%f0%9f%87%b3CN-%f0%9f%87%b9%f0%9f%87%bcTW_147
+trojan://58d32c66-43b1-4561-9951-d87c9123774e@jgwld4.gaox.ml:443?allowInsecure=1#Relay_%f0%9f%87%ac%f0%9f%87%a7GB-%f0%9f%87%ac%f0%9f%87%a7GB_331
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340?allowInsecure=1#Relay_%f0%9f%87%ba%f0%9f%87%b8US-%f0%9f%87%ba%f0%9f%87%b8US_1938
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s1.hazz.win:12340?allowInsecure=1#Relay_%f0%9f%87%ba%f0%9f%87%b8US-%f0%9f%87%ba%f0%9f%87%b8US_2203
+trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30003?allowInsecure=1&sni=cm.spacez.cloud#Relay_%f0%9f%87%a8%f0%9f%87%b3CN-%f0%9f%87%b9%f0%9f%87%bcTW_147
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s1.hazz.win:12340?allowInsecure=1&sni=s1.hazz.win#Relay_%f0%9f%87%ba%f0%9f%87%b8US-%f0%9f%87%ba%f0%9f%87%b8US_2203
+trojan://58d32c66-43b1-4561-9951-d87c9123774e@jgwld4.gaox.ml:443?allowInsecure=1&sni=jgwld4.gaox.ml#Relay_%f0%9f%87%ac%f0%9f%87%a7GB-%f0%9f%87%ac%f0%9f%87%a7GB_331
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw@138.197.166.205:811#CA_134
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@195.154.200.150:2376#FR_245
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340?allowInsecure=1&sni=s3.hazz.win#Relay_%f0%9f%87%ba%f0%9f%87%b8US-%f0%9f%87%ba%f0%9f%87%b8US_1938
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw@178.62.16.161:811#GB_304
